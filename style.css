@@ -48,10 +48,10 @@ body {
   font-size: 16px;
   line-height: 24px;
 }
-.button a{
+.button a {
   color: white;
   text-decoration: none;
- }
+}
 .button {
   margin-top: 30px;
   border: none;
@@ -95,10 +95,9 @@ body {
   letter-spacing: 0em;
 }
 /*------------------about part start- --------------*/
-.box1{
+.box1 {
   text-align: center;
   margin-top: 30px;
-
 }
 
 .box1 .about_us {
@@ -122,7 +121,7 @@ body {
 }
 /*------------------Create part start- --------------*/
 
-.box2{
+.box2 {
   margin-top: 30px;
   text-align: center;
 }
@@ -133,29 +132,24 @@ body {
   background: #4cca77;
   border-radius: 50px 0px 50px 0px;
   margin-left: auto;
-  border: 10px solid #4885ED;
-  
+  border: 10px solid #4885ed;
 }
-.box2 .creative h2
-{
+.box2 .creative h2 {
   font-size: 32px;
   color: #ffffff;
   margin: auto;
 }
 
-
-.box2 .creative p{
+.box2 .creative p {
   font-weight: 400;
   color: #ffffff;
   margin: auto;
-
 }
 /*------------------it part start- --------------*/
 
-.box3{
+.box3 {
   margin-top: 30px;
   text-align: center;
-  
 }
 
 .box3 .it {
@@ -163,27 +157,23 @@ body {
   height: 350px;
   background: #4cca77;
   margin: auto;
-  border: 10px solid #4885ED;
-  outline:10px solid gray;
-  
+  border: 10px solid #4885ed;
+  outline: 10px solid gray;
 }
-.box3 .it h2
-{
+.box3 .it h2 {
   font-size: 32px;
   color: #ffffff;
   margin: auto;
 }
 
-
-.box3 .it p{
+.box3 .it p {
   font-weight: 400;
   color: #ffffff;
   margin: auto;
-
 }
 /*------------------it part 2 start- --------------*/
 
-.box4{
+.box4 {
   margin-top: 30px;
   text-align: center;
 }
@@ -194,28 +184,23 @@ body {
   background: #4cca77;
   border-radius: 50px 0px 50px 0px;
   margin-right: auto;
-  border: 10px solid #4885ED;
-  
+  border: 10px solid #4885ed;
 }
-.box4 .it2 h2
-{
+.box4 .it2 h2 {
   font-size: 32px;
   color: #ffffff;
   margin: auto;
 }
 
-
-.box4 .it2 p{
+.box4 .it2 p {
   font-weight: 400;
   color: #ffffff;
   margin: auto;
-
 }
 /*------------------profile part start- --------------*/
-.box5{
+.box5 {
   text-align: center;
   margin-top: 30px;
-
 }
 
 .box5 .profile {
@@ -225,14 +210,13 @@ body {
   margin: auto;
 }
 
-.box5 .profile img{
-height: 108px;
-max-width: 117px;
-border-radius: 50%;
-margin-top: 60px;
-border: 5px solid #4885ED;
-outline:3px solid white;
-
+.box5 .profile img {
+  height: 108px;
+  max-width: 117px;
+  border-radius: 50%;
+  margin-top: 60px;
+  border: 5px solid #4885ed;
+  outline: 3px solid white;
 }
 
 .box5 .profile h2 {
@@ -250,69 +234,67 @@ outline:3px solid white;
 .card_main {
   max-width: 1320px;
   height: 600px;
-  background-image: url("/assets/images/bk.jpg");
+  background-image: url("./assets/images/bk.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   margin-top: 30px;
 }
 .card {
-   height: 506px;
-   max-width: 350px;
-   background-color: #FFFFFF;
-   border: 5px solid rgba(72, 133, 237, 1);
+  height: 506px;
+  max-width: 350px;
+  background-color: #ffffff;
+  border: 5px solid rgba(72, 133, 237, 1);
 }
 
 .card_part {
-  padding: 50px 0px 50px 20px ;
+  padding: 50px 0px 50px 20px;
 }
 .container h4 {
-font-family: Poppins;
-font-size: 24px;
-font-weight: 700;
-letter-spacing: 0em;
-text-align: center;
-padding: 40px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 40px;
 }
 
-.price{
-height: 73px;
-max-width: 350px;
-background-color: #4885ED;
-
+.price {
+  height: 73px;
+  max-width: 350px;
+  background-color: #4885ed;
 }
-.price h1{
-font-size: 42PX;
-color: #ffffff;
-text-align: center;
+.price h1 {
+  font-size: 42px;
+  color: #ffffff;
+  text-align: center;
 }
-.list{
-  background-color: #E8F0FF;
+.list {
+  background-color: #e8f0ff;
   height: 235px;
   max-width: 350px;
   margin: auto;
   text-align: center;
   padding-top: 50px;
 }
-.list p i{
-  color:#4885ED; 
-  width: 20px; 
+.list p i {
+  color: #4885ed;
+  width: 20px;
   height: 20px;
-
 }
-.list p{
-  color: black; 
+.list p {
+  color: black;
 }
 
 /* button card*/
-.bt_main{
-  margin-top:10px;
+.bt_main {
+  margin-top: 10px;
   padding: 10px;
 }
-.bt a{
+.bt a {
   color: white;
   text-decoration: none;
- }
+}
 .bt {
   text-align: center;
   padding: 8px 32px;
@@ -322,11 +304,9 @@ text-align: center;
   border-radius: 46px;
   font-weight: 300;
   margin: auto;
-
 }
 
 /* Footer Area Start */
-
 
 /* Footer one section Start */
 
@@ -343,21 +323,19 @@ footer .one {
   margin: 10px;
 }
 
-footer  p{
+footer p {
   color: white;
   padding: 10px 10px;
 }
 
-
 .social i {
   font-size: 32px;
-   color: white; 
-   width:32px; 
-   height: 32px; 
+  color: white;
+  width: 32px;
+  height: 32px;
   padding-left: 20px;
   padding-right: 20px;
   margin-top: 30px;
-
 }
 /* Footer one section end */
 hr {
@@ -374,10 +352,10 @@ footer .two {
   margin: auto;
   max-width: 1320px;
 }
-footer a{
+footer a {
   color: white;
   text-decoration: none;
- }
+}
 
 span {
   font-weight: bold;
