@@ -1,0 +1,385 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  width: 89.73px;
+  height: 50px;
+  margin: 10px;
+}
+
+.HEAD {
+  max-width: 1320px;
+  height: 70px;
+  background: #419df4;
+  margin: auto;
+}
+
+/*---- BANNAR PART START-----------*/
+.bannar {
+  margin-top: 30px;
+  margin: auto;
+  padding: 0px 16px;
+  max-width: 1320px;
+  height: 500px;
+  background: #e8f0ff;
+}
+
+.bannar h1 {
+  max-width: 344px;
+  height: 216px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #343434;
+}
+
+.bannar p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.button a{
+  color: white;
+  text-decoration: none;
+ }
+.button {
+  margin-top: 30px;
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 32px;
+  width: 218px;
+  height: 52px;
+  background: #4885ed;
+  border-radius: 46px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+/*---- info PART START-----------*/
+.info {
+  max-width: 1320px;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #ffff;
+}
+
+.info h2 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  margin: auto;
+  margin-top: 30px;
+  color: #343434;
+}
+
+.info p {
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+/*------------------about part start- --------------*/
+.box1{
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+.box1 .about_us {
+  width: 350px;
+  height: 350px;
+  background: #4cca77;
+  border-radius: 432px;
+  margin: auto;
+}
+
+.box1 .about_us h2 {
+  font-size: 32px;
+  color: #ffffff;
+  margin: auto;
+}
+
+.box1 .about_us p {
+  font-weight: 400;
+  color: #ffffff;
+  margin: auto;
+}
+/*------------------Create part start- --------------*/
+
+.box2{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.box2 .creative {
+  width: 350px;
+  height: 350px;
+  background: #4cca77;
+  border-radius: 50px 0px 50px 0px;
+  margin-left: auto;
+  border: 10px solid #4885ED;
+  
+}
+.box2 .creative h2
+{
+  font-size: 32px;
+  color: #ffffff;
+  margin: auto;
+}
+
+
+.box2 .creative p{
+  font-weight: 400;
+  color: #ffffff;
+  margin: auto;
+
+}
+/*------------------it part start- --------------*/
+
+.box3{
+  margin-top: 30px;
+  text-align: center;
+  
+}
+
+.box3 .it {
+  width: 350px;
+  height: 350px;
+  background: #4cca77;
+  margin: auto;
+  border: 10px solid #4885ED;
+  outline:10px solid gray;
+  
+}
+.box3 .it h2
+{
+  font-size: 32px;
+  color: #ffffff;
+  margin: auto;
+}
+
+
+.box3 .it p{
+  font-weight: 400;
+  color: #ffffff;
+  margin: auto;
+
+}
+/*------------------it part 2 start- --------------*/
+
+.box4{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.box4 .it2 {
+  width: 350px;
+  height: 350px;
+  background: #4cca77;
+  border-radius: 50px 0px 50px 0px;
+  margin-right: auto;
+  border: 10px solid #4885ED;
+  
+}
+.box4 .it2 h2
+{
+  font-size: 32px;
+  color: #ffffff;
+  margin: auto;
+}
+
+
+.box4 .it2 p{
+  font-weight: 400;
+  color: #ffffff;
+  margin: auto;
+
+}
+/*------------------profile part start- --------------*/
+.box5{
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+.box5 .profile {
+  width: 350px;
+  height: 350px;
+  background: rgba(72, 133, 237, 1);
+  margin: auto;
+}
+
+.box5 .profile img{
+height: 108px;
+max-width: 117px;
+border-radius: 50%;
+margin-top: 60px;
+border: 5px solid #4885ED;
+outline:3px solid white;
+
+}
+
+.box5 .profile h2 {
+  font-size: 32px;
+  color: #ffffff;
+  margin: auto;
+}
+
+.box5 .profile p {
+  font-weight: 400;
+  color: #ffffff;
+}
+/* Card Area Start */
+
+.card_main {
+  max-width: 1320px;
+  height: 600px;
+  background-image: url("/assets/images/bk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 30px;
+}
+.card {
+   height: 506px;
+   max-width: 350px;
+   background-color: #FFFFFF;
+   border: 5px solid rgba(72, 133, 237, 1);
+}
+
+.card_part {
+  padding: 50px 0px 50px 20px ;
+}
+.container h4 {
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+letter-spacing: 0em;
+text-align: center;
+padding: 40px;
+}
+
+.price{
+height: 73px;
+max-width: 350px;
+background-color: #4885ED;
+
+}
+.price h1{
+font-size: 42PX;
+color: #ffffff;
+text-align: center;
+}
+.list{
+  background-color: #E8F0FF;
+  height: 235px;
+  max-width: 350px;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+.list p i{
+  color:#4885ED; 
+  width: 20px; 
+  height: 20px;
+
+}
+.list p{
+  color: black; 
+}
+
+/* button card*/
+.bt_main{
+  margin-top:10px;
+  padding: 10px;
+}
+.bt a{
+  color: white;
+  text-decoration: none;
+ }
+.bt {
+  text-align: center;
+  padding: 8px 32px;
+  width: 150px;
+  height: 42px;
+  background: #4885ed;
+  border-radius: 46px;
+  font-weight: 300;
+  margin: auto;
+
+}
+
+/* Footer Area Start */
+
+
+/* Footer one section Start */
+
+footer .one {
+  height: 446px;
+  max-width: 1320px;
+  padding: 52px 0px 0px 0px;
+  margin: auto;
+  background: rgba(72, 133, 237, 1);
+}
+.logo2 {
+  height: 95px;
+  width: 171px;
+  margin: 10px;
+}
+
+footer  p{
+  color: white;
+  padding: 10px 10px;
+}
+
+
+.social i {
+  font-size: 32px;
+   color: white; 
+   width:32px; 
+   height: 32px; 
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 30px;
+
+}
+/* Footer one section end */
+hr {
+  max-width: 1320px;
+  color: white;
+  margin: auto;
+  display: block;
+}
+
+footer .two {
+  margin-top: 10px;
+  background: rgba(72, 133, 237, 1);
+  padding: 10px 20px;
+  margin: auto;
+  max-width: 1320px;
+}
+footer a{
+  color: white;
+  text-decoration: none;
+ }
+
+span {
+  font-weight: bold;
+}
+/* Footer Area End */
